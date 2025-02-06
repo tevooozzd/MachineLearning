@@ -15,12 +15,6 @@ This repository contains the hands-on **Machine Learning** learning material tha
 - Implement classic algorithms, such as **linear regression**, **Decision Trees**, **K-Means**, and more.
 - Document and share my journey with the community.
 
-## How to use
-
-1. Clone the repository: `git clone https://github.com/seu_usuario/ML-Learning-Repo.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run notebooks to keep track of learning.
-
 ## Contributions
 
 Feel free to contribute ideas, corrections or improvements!
