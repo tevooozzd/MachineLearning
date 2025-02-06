@@ -4,11 +4,11 @@ What is a vector?
 
 Examples:
 
-        MATRIZ1 = [ 1 2 ]
+        MATRIX1 = [ 1 2 ]
 
                     This is a DIMENSIONAL ARRAY, have 1 row OR 1 column, in this example we call this 1x2 (1 row, 2 column)
 
-        MATRIZ2  = [ 1 2 3 4 5 6 ]
+        MATRIX2  = [ 1 2 3 4 5 6 ]
                      This is a DIMENSIONAL ARRAY (1x6 -> 1 rows, 6 columns)
 
         MATRIX3 - [ 0
