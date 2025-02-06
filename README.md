@@ -1,30 +1,30 @@
-# Machine Learning - Feb 2025 Learning Journey
+# Machine Learning - February 2025 Learning Journey
 
-Este repositório contém o material de aprendizado prático de **Machine Learning** que estou desenvolvendo durante o ano de 2025. Meu objetivo é aprender os principais conceitos e algoritmos de ML, usar o jupiter notebook para isso e registrar todos os meus progressos aqui no GitHub.
+This repository contains the hands-on **Machine Learning** learning material that I am developing during the year 2025. My goal is to learn the main ML concepts and algorithms, use Jupiter Notebook to do so, and record all my progress here on GitHub.
 
-## Estrutura
+##Structure
 
-- **/notebooks**: Notebooks Jupyter com explicações e experimentos.
-- **/scripts**: Scripts Python com exemplos de implementação.
-- **/data**: Dados usados nos notebooks e scripts (sempre que possível).
-- **requirements.txt**: Lista de pacotes necessários para rodar o código.
+- **/notebooks**: Jupyter notebooks with explanation and experiments.
+- **/scripts**: Python scripts with implementation examples.
+- **/data**: Data used in notebooks and scripts (whenever possible).
+- **requirements.txt**: List of packages needed to run the code.
 
-## Objetivos
+## Objectives
 
-- Estudar **aprendizado supervisionado** e **não supervisionado**.
-- Implementar algoritmos clássicos, como **regressão linear**, **Árvores de Decisão**, **K-Means**, e mais.
-- Documentar e compartilhar minha jornada com a comunidade.
+- Study **supervised** and **unsupervised** learning.
+- Implement classic algorithms, such as **linear regression**, **Decision Trees**, **K-Means**, and more.
+- Document and share my journey with the community.
 
-## Como usar
+## How to use
 
-1. Clone o repositório: `git clone https://github.com/seu_usuario/ML-Learning-Repo.git`
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute os notebooks para acompanhar o aprendizado.
+1. Clone the repository: `git clone https://github.com/seu_usuario/ML-Learning-Repo.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run notebooks to keep track of learning.
 
-## Contribuições
+## Contributions
 
-Sinta-se à vontade para contribuir com ideias, correções ou melhorias!
+Feel free to contribute ideas, corrections or improvements!
 
-## Licença
+## License
 
-Este repositório está licenciado sob a Licença MIT.
+This repository is licensed under the MIT License.
