@@ -1,6 +1,6 @@
 # Machine Learning - Feb 2025 Learning Journey
 
-Este repositório contém o material de aprendizado prático de **Machine Learning** que estou desenvolvendo durante o mês de fevereiro de 2025. Meu objetivo é aprender os principais conceitos e algoritmos de ML, e registrar todos os meus progressos aqui no GitHub.
+Este repositório contém o material de aprendizado prático de **Machine Learning** que estou desenvolvendo durante o ano de 2025. Meu objetivo é aprender os principais conceitos e algoritmos de ML, usar o jupiter notebook para isso e registrar todos os meus progressos aqui no GitHub.
 
 ## Estrutura
 
