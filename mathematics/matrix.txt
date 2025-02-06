@@ -1,0 +1,18 @@
+What is a MATRIX?
+ ->Basically MATRIXS are BIDIMENSIONAL ARRAYS
+    ->What is a ARRAY? -> Array it's a struct o data that store a collection of elements in order, and we can acess all these elements by indexs
+
+Examples:
+
+        MATRIZ1 = [ 1 2 
+                    3 4 ]
+
+                    This is a BIDIMENSIONAL ARRAY, have at least 2 row and 2 columns, in this example we call this 2x2 (2 rows, 2 columns)
+
+        MATRIZ2  = [ 1 2 3
+                     4 5 6
+                     7 8 9 ]
+                     This is a BIDIMENSIONAL ARRAY (3x3 -> 3 rows, 3 columns)
+
+- In Python don't have a native form to arrays, so if we need to use arrays, it's necessary use the numpy library (np) and use a function
+- Otherwise in languages like C, C++ and more, have arrays in the native form.
