@@ -1,0 +1,24 @@
+What is a vector?
+ -> Basically VECTORS ARE UNIDIMENSIONAL ARRAYS
+    ->What is a ARRAY? -> Array it's a struct o data that store a collection of elements in order, and we can acess all these elements by indexs
+
+Examples:
+
+        MATRIZ1 = [ 1 2 ]
+
+                    This is a DIMENSIONAL ARRAY, have 1 row OR 1 column, in this example we call this 1x2 (1 row, 2 column)
+
+        MATRIZ2  = [ 1 2 3 4 5 6 ]
+                     This is a DIMENSIONAL ARRAY (1x6 -> 1 rows, 6 columns)
+
+        MATRIX3 - [ 0
+                    1
+                    2
+                    3
+                    4
+                    5
+                     ]
+                    This is a DIMENSIONAL ARRAY (6x1 -> 6 rows, 1 column)
+
+- In Python don't have a native form to arrays, so if we need to use arrays, it's necessary use the numpy library (np) and use a function
+- Otherwise in languages like C, C++ and more, have arrays in the native form.
