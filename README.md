@@ -4,6 +4,7 @@ This repository contains the hands-on **Machine Learning** learning material tha
 
 ##Structure
 
+- **/mathematics**: Directory used to understanding math concepts and training
 - **/notebooks**: Jupyter notebooks with explanation and experiments.
 - **/scripts**: Python scripts with implementation examples.
 - **/data**: Data used in notebooks and scripts (whenever possible).
