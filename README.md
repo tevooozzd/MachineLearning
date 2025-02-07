@@ -1,13 +1,7 @@
-# Machine Learning - February 2025 Learning Journey
+# Mathematics Machine Learning - February 2025 Learning Journey
 
-This repository contains the hands-on **Machine Learning** learning material that I am developing during the year 2025. My goal is to learn the main ML concepts and algorithms, use Jupiter Notebook to do so, and record all my progress here on GitHub.
+This repository contains the hands-on **Mathematics Machine Learning** learning material that I am developing during the year 2025. My goal is to learn the main MATH ML concepts and ALGORITMS, use Jupiter Notebook to do so, and record all my progress here on GitHub.
 
-## Structure
-- **/mathematics**: Directory used to understanding math concepts and training
-- **/notebooks**: Jupyter notebooks with explanation and experiments.
-- **/scripts**: Python scripts with implementation examples.
-- **/data**: Data used in notebooks and scripts (whenever possible).
-- **requirements.txt**: List of packages needed to run the code.
 
 ## Objectives
 
