@@ -22,3 +22,7 @@ Examples:
 
 - In Python don't have a native form to arrays, so if we need to use arrays, it's necessary use the numpy library (np) and use a function
 - Otherwise in languages like C, C++ and more, have arrays in the native form.
+
+
+I WILL DO 5 EXERCISES OF VECTORS ALL DAYS IN SOME LANGUAGES (ACTUALLY C AND PYTHON), C TO TRAIN THE LOGIC BEFORE, AND PYTHON TO TRAIN WITH NUMPY FOR MACHINE LEARNING
+UNTIL I GET A JOB TO MACHINE LEARNING
