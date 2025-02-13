@@ -1,4 +1,6 @@
-## **1. O que é Indexação?**
+# **Indexação**
+
+## **O que é Indexação?**
 A **indexação** é o processo de acessar um **elemento específico** de um array, lista ou outra estrutura de dados usando um **índice** (ou uma combinação de índices, no caso de arrays multidimensionais).
 
 ### **Sintaxe:**
